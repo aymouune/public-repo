@@ -1,1 +1,1 @@
-alert(document.domain);
+alert("XSS at: "+document.domain);
